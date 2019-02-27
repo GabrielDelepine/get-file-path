@@ -20,7 +20,7 @@ npm i get-file-path
 getFilePath(initialPath, fileToReach)
 ```
 
-> By default `fileToReach` is `package.json`
+> By default `initialPath` is `./` and `fileToReach` is `package.json`
 
 e.g
 
